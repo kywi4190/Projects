@@ -2,14 +2,14 @@
 Repo of personal coding exploration
 
 
-Prompt to Manim Generation <br>
+Prompt to Video and Audio Math Visualization Teacher with Agentic AI <br>
 link: https://github.com/kywi4190/Prompt-to-Math-Visualization-with-Agentic-AI
-
-Volumetric Cloud Simulation <br>
-link: https://github.com/kywi4190/Volumetric-Clouds
 
 Handwritten Digit Classification with Backpropagation from Scratch <br>
 link: https://github.com/kywi4190/Handwritten-Digit-Classifier
+
+Volumetric Cloud Simulation with Compute Shaders <br>
+link: https://github.com/kywi4190/Volumetric-Clouds
 
 Procedural Tree Generation with L-systems <br>
 link: https://github.com/kywi4190/Procedural-Tree-Generation
