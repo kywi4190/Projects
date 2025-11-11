@@ -75,5 +75,5 @@
 
 - Email: kywi4190@colorado.edu
 - [LinkedIn](https://www.linkedin.com/in/kyle-michael-wilson)
-- [Resume (PDF)](resume.pdf)
+- [Resume (PDF)](Kyle_Wilson_Resume_2025.pdf)
 
