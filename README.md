@@ -42,7 +42,7 @@
 
 ---
 
-### **Procedural Tree Generation with L-systems**
+### **Procedural Tree Generation with L-Systems**
 **Area of Research:** 3D Graphics, Fractals, Game Development, Natural Science
 <br>**Languages + Frameworks:** C# + Shader Graph + Unity
 * Implemented Lindenmayer fractals to procedurally generate different species of trees
@@ -52,7 +52,7 @@
 
 ---
 
-### **Procedural Island Mesh Generation**
+### **Procedural Terrain with Mesh Generation**
 **Area of Research:** 3D Graphics, Game Development, Noise Generation
 <br>**Languages + Frameworks:** C# + Shader Graph + Unity
 * Configurable multi-octave perlin noise to generate mesh heightmap
