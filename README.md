@@ -62,7 +62,7 @@
 ---
 
 ### **Game of Life and Temperature Diffusion with Cellular Automata**
-**Area of Research:** ...
+**Area of Research:** Iterative Solver, Cellular Automata, Emergent Behaviour
 <br>**Languages + Frameworks:** C# + Unity
 * Implemented Guass-Seidel iterative solver to simulate the heat propagation and convection of gas
 * Used the same cellular automata system to simulate emergent behaviour in Conway's Game of Life
