@@ -14,7 +14,7 @@
 * OpenAI agentic AI uses GPT 5 to:
   * Write structured Manim JSON, then critique/rewrite code to minimize syntax error
   * Develop teaching strategy
-  * Generate video with subtitles + generate audio narration overlay with subtitles
+  * Generate animated video + generate audio narration overlay with subtitles
   * Read logs and repair code on syntax error
 * Includes code sanitization, and extensive system/user prompts to maximize success and feature compliance
 <br>[View Project Repo](https://github.com/kywi4190/Prompt-to-Math-Visualization-with-Agentic-AI)
