@@ -6,7 +6,7 @@ I'm working toward empirical AI safety research engineering, with a focus on eva
 
 [![Email](https://img.shields.io/badge/Email-kywi4190%40colorado.edu-c41e3a?style=flat-square&logo=gmail&logoColor=white)](mailto:kywi4190@colorado.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyle_Wilson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-michael-wilson)
-[![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat-square&logo=readthedocs&logoColor=white)](Kyle_Wilson_Resume_2026.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat-square&logo=readthedocs&logoColor=white)](Kyle_Wilson_Resume.pdf)
 
 ---
 
